@@ -2,7 +2,7 @@
 import sqlite3
 from datetime import datetime, date
 from pathlib import Path
-st.image("logo1.jpg")
+st.image("IMG_0139.jpeg")
 import pandas as pd
 import streamlit as st
 
